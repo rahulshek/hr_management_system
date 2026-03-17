@@ -270,5 +270,5 @@ EXPORT DATA
 
 
 # ---------------- RUN PROGRAM ----------------
-if __name__ == "__main__": #  This is the standard entry point for Python scripts It checks if the script is being run directly (not imported as a module)
-    main() #  Call the main function when the script is executed directly
+if __name__ == "__main__": 
+    main() 
