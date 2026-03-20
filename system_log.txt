@@ -1,3 +1,9 @@
-[2026-03-16 23:05:23] Leave Applied by EMPID 1
-[2026-03-16 23:05:38] Leave Approved: 1
-[2026-03-19 12:37:31] Leave Approved: 2
+[2026-03-19 20:19:50] Attendance Marked for EMPID 1 : WFH
+[2026-03-19 20:20:16] Leave Applied by EMPID 1
+[2026-03-19 20:20:53] Leave Approved: 1
+[2026-03-19 20:25:47] Employee Added: Smir
+[2026-03-19 20:30:53] Employee Added: Dhvnil
+[2026-03-19 20:32:37] Attendance Marked for EMPID 2 : Present
+[2026-03-19 20:33:01] Payroll Generated for EMPID 1
+[2026-03-19 20:34:40] Attendance Marked for EMPID 1 : Present
+[2026-03-20 12:13:23] Employee Added: Aditya

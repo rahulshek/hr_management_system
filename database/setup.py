@@ -59,7 +59,7 @@ def create_tables():
 
     cursor.execute("""
     INSERT INTO LOGIN(USERNAME,PASSWORD,ROLE)
-    SELECT 'admin','admin123','admin'
+    SELECT 'admin','admin123','superadmin'
     WHERE NOT EXISTS (SELECT 1 FROM LOGIN WHERE USERNAME='admin')
 """)
 
